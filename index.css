@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.wrapper {
+  height: 100vh;
+  padding: 2em;
+  background-color: blueviolet;
+  display: flex;
+  align-items: start;
+}
+ .list {
+   display: flex;
+   flex-direction: column;
+ }
